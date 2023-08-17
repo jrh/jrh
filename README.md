@@ -5,7 +5,6 @@
 <br>
 <p>
  <img width="45%" alt="Github Stats" src="https://github-readme-stats-steel-psi.vercel.app/api?username=jrh&show_icons=true&theme=solarized-dark&hide_rank=true&custom_title=Github%20Stats">
- <img align="right" width="45%" alt="Top Used Technologies" src="https://github-readme-stats-steel-psi.vercel.app/api/top-langs/?username=jrh&theme=solarized-dark&layout=compact">
 </p>
 
 <!--
